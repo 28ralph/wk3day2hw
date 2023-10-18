@@ -82,13 +82,14 @@
 // Assignment 7
 
 // function reverseString(str) {
-//     let array = str.split('')
-//     let array1 = array.reverse()
-//     let word = array1.join('')
-//     return word
-// }
+//     let string1 = ""
+//     for (let i = (str.length - 1); i >=0; i--){
+//         string1 += str[i]
+//     }
+//         return string1
 
-// console.log(reverseString("Hello World"))
+// }
+// console.log(reverseString("rockstar"))
 
 // Assignment 8
 
